@@ -2,4 +2,4 @@
 
 Open Source Integration for Internet of Things
 
-ATENTION: This application is in development phase!!!
+ATENTION: [This repository is maintained here!!!](https://github.com/osi4iot/osi4iot)
